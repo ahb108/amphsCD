@@ -32,4 +32,4 @@ artefact, where it was made, or by whom).
 
 ### Find the code on GitHub
 
-[![Github logo](https://crowdfunded.micropasts.org/assets/learn/github-ee049d767e762a0c6626051203a31f6e.png)](https://github.com/MicroPasts/AmphoraRevolution)
+[![Github logo](https://crowdfunded.micropasts.org/assets/learn/github-ee049d767e762a0c6626051203a31f6e.png)](https://github.com/MicroPasts/amphsCD)
