@@ -1,2 +1,2 @@
-# amphsCD
-New version for amphoras C-D (se Amphora Revolution)
+# amphs1
+MicroPasts and Pybossa crowd-sourcing application for creating amphora profiles that can be revolved into 3D solids
